@@ -6,18 +6,18 @@ An assistive smart glass system designed to help visually impaired people detect
 
 ## 🌟 Project Overview
 
-This project uses an **Arduino Uno** and an **HC-SR04 ultrasonic sensor** mounted on glasses to detect obstacles in front of the user. When an obstacle is detected within a predefined distance, the system triggers a buzzer and LED to alert the wearer, helping them avoid collisions.
+This project uses an **Arduino** and an **HC-SR04 ultrasonic sensor** mounted on glasses to detect obstacles in front of the user. When an obstacle is detected within a predefined distance, the system triggers a buzzer and LED to alert the wearer, helping them avoid collisions.
 
 ---
 
 ## 🛠️ Components Required
 
-- Arduino Uno  
+- Arduino 
 - HC-SR04 Ultrasonic Sensor  
 - Buzzer  
 - LED (with 220Ω resistor)  
 - Jumper wires  
-- Power supply (e.g., 9V battery or USB)  
+- Power supply 
 - Glass frame or holder for mounting sensor and electronics  
 
 ---
@@ -62,7 +62,6 @@ This project uses an **Arduino Uno** and an **HC-SR04 ultrasonic sensor** mounte
 ![Smart Glass Setup](IMG_2915.JPG)  
 ![Mounted Ultrasonic Sensor](IMG_2916.JPG)  
 ![Circuit Assembly](IMG_2920.JPG)  
-
 
 ---
 
