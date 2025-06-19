@@ -63,10 +63,13 @@ This project uses an **Arduino** and an **HC-SR04 ultrasonic sensor** mounted on
 ![Mounted Ultrasonic Sensor](IMG_2916.JPG)  
 ![Circuit Assembly](IMG_2920.JPG)  
 
+
+---
+
+![Circuit Diagram](https://github.com/PrateekSinghRajput/Smart-Glass-For-Blind-Person-using-Arduino-and-Ultrasonic-Sensor/assets/92904643/e9c6a848-4ffe-4ef2-8e76-6a13ed27b3ac)
+
 ---
 
 Made with ❤️ to empower the visually impaired! 👓✨
 
 ---
-
-![Circuit Diagram](https://github.com/PrateekSinghRajput/Smart-Glass-For-Blind-Person-using-Arduino-and-Ultrasonic-Sensor/assets/92904643/e9c6a848-4ffe-4ef2-8e76-6a13ed27b3ac)
